@@ -1,1 +1,3 @@
 This file is first created in staging branch
+
+This is an edit on staging - CLI
